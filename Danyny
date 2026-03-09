@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Loja do Danylo</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body{
+font-family: Arial;
+background:#111;
+color:white;
+text-align:center;
+}
+.card{
+background:#1e1e1e;
+padding:20px;
+margin:20px;
+border-radius:10px;
+}
+img{
+width:200px;
+border-radius:10px;
+}
+button{
+background:#25D366;
+border:none;
+padding:10px;
+color:white;
+font-size:16px;
+border-radius:8px;
+}
+.pix{
+background:#333;
+padding:10px;
+border-radius:8px;
+margin-top:10px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Minha Loja</h1>
+<p>Compre comigo pelo WhatsApp ou Pix</p>
+
+<div class="card">
+<img src="https://via.placeholder.com/200">
+<h2>Produto</h2>
+<p>Preço: R$30</p>
+
+<div class="pix">
+Pix: 21 98245-7864
+</div>
+
+<br>
+
+<a href="https://wa.me/5521982457864">
+<button>Comprar no WhatsApp</button>
+</a>
+
+</div>
+
+</body>
+</html>
